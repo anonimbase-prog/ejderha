@@ -1,0 +1,2 @@
+{ "name": "Ejderha Uçuşu", "short_name": "Ejderha", "start_url": "./index.html", "display": "fullscreen", "background_color": "#101a17", "theme_color": "#101a17",
+  "icons": [ { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" }, { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" } ] }

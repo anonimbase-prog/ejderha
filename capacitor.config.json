@@ -1,0 +1,7 @@
+{
+  "appId": "com.ejderhaucusu.app",
+  "appName": "Ejderha Uçuşu",
+  "webDir": "www",
+  "backgroundColor": "#101a17",
+  "ios": { "contentInset": "never" }
+}
